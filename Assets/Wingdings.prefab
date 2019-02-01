@@ -1312,7 +1312,7 @@ MonoBehaviour:
   - Strike
   - Solve
   - Defuse
-  reverseWords: []
+  - Hoses
 --- !u!114 &114936363335843938
 MonoBehaviour:
   m_ObjectHideFlags: 1
